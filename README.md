@@ -1,3 +1,13 @@
+# IMPORTANT NOTICE: This is the original source code from v6.0.8. This project has since been closed source and made proprietary. I had a local clone of it and since it was licensed under GPLv3 I can legally host this version.
+
+It's unfortunate that the developer had made the project closed source, and I have talked with him and he clarified he did it this way in order to pursue profit/motivation and due to lack of good pull requests.
+
+Do not expect any communications or contributions from me. All I'm doing is posting the original, GPLv3 licensed source code. I am in no obligation to support or contribute additional code to this project.
+
+Below is the original README.md
+
+---
+
 <p align="center">
   <a href="https://retromusic.app">
     <img src="assets\images\icon.png" height="128">
